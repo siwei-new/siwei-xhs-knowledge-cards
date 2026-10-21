@@ -1,0 +1,7 @@
+interface:
+  display_name: "思为小红书知识卡片"
+  short_description: "将 AI 知识与学习复盘转为统一品牌风格的小红书卡片"
+  brand_color: "#1467F2"
+  default_prompt: "Use $siwei-xhs-knowledge-cards 把这份内容整理成思为风格的小红书知识卡片。"
+policy:
+  allow_implicit_invocation: true
