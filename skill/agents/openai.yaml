@@ -1,7 +1,7 @@
 interface:
-  display_name: "小红书干货卡片排版"
-  short_description: "把笔记与经验整理成可确认、可批量生成的小红书知识卡片"
-  brand_color: "#1E60FF"
-  default_prompt: "Use $xhs-card-designer 把这份内容整理成一套小红书干货知识卡片。"
+  display_name: "思为小红书知识卡片"
+  short_description: "将 AI 知识与学习复盘转为统一品牌风格的小红书卡片"
+  brand_color: "#1467F2"
+  default_prompt: "Use $siwei-xhs-knowledge-cards 把这份内容整理成思为风格的小红书知识卡片。"
 policy:
   allow_implicit_invocation: true
