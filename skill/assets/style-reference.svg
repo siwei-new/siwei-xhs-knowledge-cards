@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440" role="img" aria-labelledby="title desc">
+  <title id="title">思为小红书知识卡片视觉参考</title>
+  <desc id="desc">米白背景、粗黑标题、白色模块卡片，以及科技蓝和成长绿两套主题示例。</desc>
+  <rect width="1080" height="1440" fill="#FAFBFD"/>
+  <rect x="72" y="70" width="300" height="52" rx="26" fill="#EEF5FF"/>
+  <text x="104" y="105" font-family="PingFang SC, sans-serif" font-size="24" font-weight="700" fill="#1467F2">AI 产品经理知识卡片</text>
+  <text x="72" y="220" font-family="PingFang SC, sans-serif" font-size="92" font-weight="800" fill="#090F1D">一页讲清</text>
+  <text x="72" y="326" font-family="PingFang SC, sans-serif" font-size="92" font-weight="800" fill="#090F1D">RAG 评测</text>
+  <text x="72" y="392" font-family="PingFang SC, sans-serif" font-size="34" fill="#56627A">从问题定义到可验证的评测集</text>
+  <rect x="72" y="470" width="448" height="300" rx="20" fill="#FFFFFF" stroke="#B8C9E5" stroke-width="2"/>
+  <circle cx="130" cy="538" r="26" fill="#1467F2"/>
+  <text x="121" y="548" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">1</text>
+  <text x="176" y="548" font-family="PingFang SC, sans-serif" font-size="34" font-weight="700" fill="#090F1D">先定义失败</text>
+  <text x="112" y="620" font-family="PingFang SC, sans-serif" font-size="28" fill="#56627A">列出检索失败、回答偏题、</text>
+  <text x="112" y="664" font-family="PingFang SC, sans-serif" font-size="28" fill="#56627A">引用错误与应当拒答的情况。</text>
+  <rect x="560" y="470" width="448" height="300" rx="20" fill="#FFFFFF" stroke="#B8C9E5" stroke-width="2"/>
+  <circle cx="618" cy="538" r="26" fill="#1467F2"/>
+  <text x="609" y="548" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">2</text>
+  <text x="664" y="548" font-family="PingFang SC, sans-serif" font-size="34" font-weight="700" fill="#090F1D">构建评测集</text>
+  <text x="600" y="620" font-family="PingFang SC, sans-serif" font-size="28" fill="#56627A">覆盖常规问题、边界问题、</text>
+  <text x="600" y="664" font-family="PingFang SC, sans-serif" font-size="28" fill="#56627A">冲突信息和无答案问题。</text>
+  <rect x="72" y="820" width="936" height="252" rx="20" fill="#EAF6EF" stroke="#B9D8C7" stroke-width="2"/>
+  <text x="112" y="900" font-family="PingFang SC, sans-serif" font-size="30" font-weight="700" fill="#178A5B">成长绿用于复盘与行动</text>
+  <text x="112" y="964" font-family="PingFang SC, sans-serif" font-size="30" fill="#0B1711">把失败样本写清楚，下一轮才知道改什么。</text>
+  <path d="M112 1004 C290 1020 478 994 724 1006" fill="none" stroke="#178A5B" stroke-width="8" stroke-linecap="round"/>
+  <line x1="72" y1="1260" x2="1008" y2="1260" stroke="#B8C9E5" stroke-width="2"/>
+  <text x="72" y="1330" font-family="PingFang SC, sans-serif" font-size="28" font-weight="700" fill="#090F1D">@思为的新世界</text>
+  <text x="72" y="1370" font-family="PingFang SC, sans-serif" font-size="24" fill="#56627A">AI 产品经理知识卡片</text>
+  <text x="908" y="1350" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1467F2">01 / 06</text>
+</svg>
