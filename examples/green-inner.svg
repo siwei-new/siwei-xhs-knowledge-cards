@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <rect width="1080" height="1440" fill="#F7FBF8"/>
+  <rect x="72" y="76" width="196" height="52" rx="26" fill="#E7F5ED"/>
+  <text x="104" y="111" font-family="PingFang SC,Arial,sans-serif" font-size="24" font-weight="700" fill="#2E8B57">复盘方法</text>
+  <text x="72" y="236" font-family="PingFang SC,Arial,sans-serif" font-size="78" font-weight="800" fill="#14211A">用四问找到下一步</text>
+  <text x="72" y="302" font-family="PingFang SC,Arial,sans-serif" font-size="32" fill="#5C6B62">记录事实，提取原因，再转成可执行动作</text>
+  <rect x="72" y="390" width="448" height="310" rx="24" fill="#FFFFFF" stroke="#CFE2D7" stroke-width="2"/>
+  <text x="112" y="466" font-family="Arial" font-size="28" font-weight="800" fill="#2E8B57">01</text>
+  <text x="112" y="528" font-family="PingFang SC,Arial,sans-serif" font-size="38" font-weight="700" fill="#14211A">原目标是什么？</text>
+  <text x="112" y="590" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">写清成功标准，避免用</text>
+  <text x="112" y="634" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">事后感受替代目标。</text>
+  <rect x="560" y="390" width="448" height="310" rx="24" fill="#FFFFFF" stroke="#CFE2D7" stroke-width="2"/>
+  <text x="600" y="466" font-family="Arial" font-size="28" font-weight="800" fill="#2E8B57">02</text>
+  <text x="600" y="528" font-family="PingFang SC,Arial,sans-serif" font-size="38" font-weight="700" fill="#14211A">结果差在哪？</text>
+  <text x="600" y="590" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">用事实和数据描述差距，</text>
+  <text x="600" y="634" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">不要先急着归因。</text>
+  <rect x="72" y="740" width="448" height="310" rx="24" fill="#FFFFFF" stroke="#CFE2D7" stroke-width="2"/>
+  <text x="112" y="816" font-family="Arial" font-size="28" font-weight="800" fill="#2E8B57">03</text>
+  <text x="112" y="878" font-family="PingFang SC,Arial,sans-serif" font-size="38" font-weight="700" fill="#14211A">关键原因是什么？</text>
+  <text x="112" y="940" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">区分偶发现象与可重复的</text>
+  <text x="112" y="984" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">流程、判断和资源问题。</text>
+  <rect x="560" y="740" width="448" height="310" rx="24" fill="#FFFFFF" stroke="#CFE2D7" stroke-width="2"/>
+  <text x="600" y="816" font-family="Arial" font-size="28" font-weight="800" fill="#2E8B57">04</text>
+  <text x="600" y="878" font-family="PingFang SC,Arial,sans-serif" font-size="38" font-weight="700" fill="#14211A">下次怎么验证？</text>
+  <text x="600" y="940" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">把改进写成有截止时间和</text>
+  <text x="600" y="984" font-family="PingFang SC,Arial,sans-serif" font-size="28" fill="#5C6B62">判断标准的小实验。</text>
+  <rect x="72" y="1124" width="936" height="110" rx="20" fill="#E7F5ED"/>
+  <text x="112" y="1192" font-family="PingFang SC,Arial,sans-serif" font-size="30" font-weight="700" fill="#2E8B57">复盘的终点，是下一次行为发生变化。</text>
+  <line x1="72" y1="1280" x2="1008" y2="1280" stroke="#CFE2D7" stroke-width="2"/>
+  <text x="916" y="1360" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#2E8B57">02/05</text>
+</svg>

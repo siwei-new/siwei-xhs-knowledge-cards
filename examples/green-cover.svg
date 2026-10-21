@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <rect width="1080" height="1440" fill="#F7FBF8"/>
+  <rect x="72" y="76" width="206" height="52" rx="26" fill="#E7F5ED"/>
+  <text x="104" y="111" font-family="PingFang SC,Arial,sans-serif" font-size="24" font-weight="700" fill="#2E8B57">实践复盘</text>
+  <text x="72" y="282" font-family="PingFang SC,Arial,sans-serif" font-size="100" font-weight="800" fill="#14211A">复盘别只写</text>
+  <text x="72" y="400" font-family="PingFang SC,Arial,sans-serif" font-size="100" font-weight="800" fill="#14211A">“做了什么”</text>
+  <text x="76" y="474" font-family="PingFang SC,Arial,sans-serif" font-size="34" fill="#5C6B62">四个问题，把经历沉淀成下一次行动</text>
+  <rect x="72" y="574" width="936" height="520" rx="32" fill="#FFFFFF" stroke="#CFE2D7" stroke-width="2"/>
+  <path d="M242 858 C242 680 410 602 540 704 C670 602 838 680 838 858 C838 1028 666 1060 540 1140 C414 1060 242 1028 242 858Z" fill="#E7F5ED" transform="translate(0,-80)"/>
+  <circle cx="540" cy="780" r="112" fill="#2E8B57"/>
+  <text x="486" y="800" font-family="PingFang SC,Arial,sans-serif" font-size="48" font-weight="800" fill="#FFFFFF">复盘</text>
+  <text x="168" y="678" font-family="PingFang SC,Arial,sans-serif" font-size="30" font-weight="700" fill="#2E8B57">目标</text>
+  <text x="846" y="678" font-family="PingFang SC,Arial,sans-serif" font-size="30" font-weight="700" fill="#2E8B57">结果</text>
+  <text x="168" y="956" font-family="PingFang SC,Arial,sans-serif" font-size="30" font-weight="700" fill="#2E8B57">原因</text>
+  <text x="846" y="956" font-family="PingFang SC,Arial,sans-serif" font-size="30" font-weight="700" fill="#2E8B57">行动</text>
+  <text x="72" y="1208" font-family="PingFang SC,Arial,sans-serif" font-size="30" font-weight="700" fill="#2E8B57">适合项目、学习与职业成长复盘</text>
+  <line x1="72" y1="1280" x2="1008" y2="1280" stroke="#CFE2D7" stroke-width="2"/>
+  <text x="916" y="1360" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#2E8B57">01/05</text>
+</svg>
